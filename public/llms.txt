@@ -1,0 +1,65 @@
+# אשכול פיס רמת גן — Generative Engine Optimization Map
+
+> A חינוך ותרבות business.
+
+---
+
+## Pages
+
+### בית
+https://-e3407385.zappy5.app
+
+### חללים
+https://-e3407385.zappy5.app/spaces
+
+### אודות
+https://-e3407385.zappy5.app/about
+
+### צור קשר
+https://-e3407385.zappy5.app/contact
+
+### Products
+https://-e3407385.zappy5.app/products
+המוצרים שלנו - אשכול פיס רמת גן
+
+### Product Detail
+https://-e3407385.zappy5.app/product/:slug
+פרטי המוצר - אשכול פיס רמת גן
+
+### Category
+https://-e3407385.zappy5.app/category/:slug
+מוצרים - אשכול פיס רמת גן
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e3407385.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e3407385.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e3407385.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אשכול פיס רמת גן
+אשכול פיס רמת גן is a business in the חינוך ותרבות industry.
+
+## Target Audience
+אנשים המעוניינים להשכיר חללים להרצאות, אירועים ופעילויות
+
+## Industry
+חינוך ותרבות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e3407385.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e3407385.zappy5.app/robots.txt
